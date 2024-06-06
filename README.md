@@ -9,18 +9,74 @@
 [![Static Badge](https://img.shields.io/badge/-white?logo=linkedin&logoColor=white&label=alex-zaitsev-qa&labelColor=%230A66C2&color=%230A66C2)](https://www.linkedin.com/in/alex-zaitsev-qa/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Zalex86_QA)
 [![Static Badge](https://img.shields.io/badge/a.zaitsev.qa%40gmail.com-white?logo=gmail&logoColor=white&labelColor=%23EA4335&color=%23EA4335)](mailto:a.zaitsev.qa@gmail.com)
-
-
 ## 🔎 About me:
 13+ years in Quality Control and Quality Assurance
 3 years of experience in Java and test automation (Backend, Frontend, Mobile)
 Worked in a project with over 3,000 automated tests
 3.5 years background in manual testing of iOS, Android, Web and localization with real, remote, or emulated devices
+### Tools
+
+<p>
+<a href="https://java.com/">
+<img height="30" src="/icons/Java_(6).png" width="30" alt="Java"/>
+</a>
+<a href="https://dotnet.microsoft.com/en-us/">
+  <img height="30" src="/icons/dotnet.png" width="50" alt=".Net"/>
+</a>
+<a href="https://testit.software/">
+<img src="/icons/TestIT.png" alt="TestIT" width="30" height="30" />
+</a>
+<a href="https://www.gurock.com/testrail">
+<img src="/icons/TestRail.png" alt="TestRail" width="30" height="30" />
+</a>
+<a href="https://www.charlesproxy.com/">
+<img src="/icons/Charles.png" alt="Charles" width="30" height="30" />
+</a>
+<a href="https://grafana.com/">
+<img src="/icons/Grafana.png" alt="Grafana" width="30" height="30" />
+</a>
+<a href="https://firebase.google.com/">
+<img src="/icons/Firebase.png" alt="Firebase" width="30" height="30" /> 
+</a>
+<a href="https://sentry.io/welcome/">
+<img src="/icons/Sentry.png" alt="Sentry" width="30" height="30" />
+</a>
+<a href="https://amplitude.com/">
+<img src="/icons/Amplitude.png" alt="Sentry" width="50" height="30" />
+</a>
+<a href="https://www.jetbrains.com/teamcity/">
+<img src="/icons/TeamCity.png" alt="Teamcity" width="30" height="30" />
+</a>
+<a href="https://developer.apple.com/testflight/">
+<img src="/icons/Testflight.png" alt="Testflight" width="30" height="30" />
+</a>
+<a href="https://developer.android.com/studio">
+<img src="/icons/Android%20Studio.png" alt="Android Studio" width="30" height="30" />
+</a>
+<a href="https://figma.com">
+<img src="/icons/Figma.svg" alt="Figma" width="30" height="30" /> 
+</a>
+<a href="https://www.atlassian.com/software/jira">
+<img src="/icons/Jira.png" alt="Jira" width="30" height="30" />
+</a>
+<a href="https://www.postman.com/">
+<img src="/icons/Postman.png" alt="Postman" width="30" height="30" />
+</a>
+<a href="https://swagger.io/">
+<img src="/icons/swagger.png" alt="Swagger" width="30" height="30" />
+</a>
+<a href="https://localizely.com/">
+<img src="/icons/localizely.png" alt="Localizely" width="70" height="30" />
+</a>
+<a href="https://dbeaver.io/">
+<img src="/icons/DBeaver.png" alt="DBeaver" width="30" height="30" />
+</a>
+</p>
 
 ### 💪 Core Skills:
-- Java / .Net test automation with TestNG, JUnit, NUnit, and Allure
+- Java / .Net test automation with TestNG, JUnit, NUnit, and Allure 
 - Maven, Gradle, Nuget for building frameworks from scratch
-- REST Assured and Postman for API testing  (Rest/GraphQL)
+- REST Assured and Postman for API testing (Rest/GraphQL)
 - Selenium/Selenide for frontend test automation 
 - Appium for mobile test automation 
 - BDD with Cucumber and Gherkin 
@@ -31,7 +87,7 @@ Worked in a project with over 3,000 automated tests
 - Submitting bug reports in Jira and other bug-trackers 
 - Reviewing test documentation with TMS such as TestRail, Confluence
 
-## ✅ 3 years in SaaS IT Companies:
+### ✅ 3 years in SaaS IT Companies:
 - Automated tests for GraphQL and Rest API requests with RestAssured and RestAssured.Net. using C# with NUnit and Java with TestNG.
 - Switched from Java to C# in 4 days to at least middle level.
 - Created projects from scratch with NuGet and Maven for API automation with Java 18, .Net 6, .Net.4.7.2, .Net 8.
@@ -47,7 +103,7 @@ Worked in a project with over 3,000 automated tests
 - Communicated and wrote documentation in English on daily basis.
 - Facilitated maintaining contracts for Qvalon.com with core US customers by identifying and resolving critical time zone conflicts for IOS devices.
 - Gained Silver badge on Utest.com (Top 8% among a million testers on the platform) for high-quality bugs found for web applications of customers.
-- Evolved proficiency in quick switching between products during the day by submitting 200+ bug reports for 50+ brands in 6 months.
+- Evolved proficiency in quick switching between products during the day by submitting 200+ bug reports for 30+ brands in 6 months.
 - Increased bug report submitting temp from usually 4-5 bugs up to 20 bug reports in a day with all steps and attachments added
 - Advanced in localization, smoke, and regression testing of online games, shops, and switching between products and platforms at the same time with tight deadlines.
 
@@ -57,7 +113,7 @@ Worked in a project with over 3,000 automated tests
 - Work with limited supervision 
 - Communicate effectively and positively with the team members 
 - Constantly learning and improving skills
-## Languages
+### Languages
 - English: Upper-intermediate (B2)
 - French: Elementary (A2)
 - Russian: Native
