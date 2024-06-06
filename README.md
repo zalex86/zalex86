@@ -10,12 +10,11 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Zalex86_QA)
 [![Static Badge](https://img.shields.io/badge/a.zaitsev.qa%40gmail.com-white?logo=gmail&logoColor=white&labelColor=%23EA4335&color=%23EA4335)](mailto:a.zaitsev.qa@gmail.com)
 ## 🔎 About me:
-13+ years in Quality Control and Quality Assurance
-3 years of experience in Java and test automation (Backend, Frontend, Mobile)
-Worked in a project with over 3,000 automated tests
-3.5 years background in manual testing of iOS, Android, Web and localization with real, remote, or emulated devices
+13+ years in Quality Control and Quality Assurance.
+3 years of experience in Java and test automation (Backend, Frontend, Mobile).
+Worked in a project with over 3,000 automated tests.
+3.5 years background in manual testing of iOS, Android, Web and localization with real, remote, or emulated devices.
 ### Tools
-
 <p>
 <a href="https://java.com/">
 <img height="30" src="/icons/Java_(6).png" width="30" alt="Java"/>
@@ -86,6 +85,11 @@ Worked in a project with over 3,000 automated tests
 - Payment, localization, regression, and smoke testing in Agile/Scrum environments 
 - Submitting bug reports in Jira and other bug-trackers 
 - Reviewing test documentation with TMS such as TestRail, Confluence
+
+### Projects
+- [Api Maven TestNG Rest Assured](https://github.com/zalex86/api-ch-four)
+- [UI Maven TestNG Selenide](https://github.com/zalex86/Mega-ui-automation)
+- [UI Android and iOS Appium](https://github.com/zalex86/QAJA_MOBILE)
 
 ### ✅ 3 years in SaaS IT Companies:
 - Automated tests for GraphQL and Rest API requests with RestAssured and RestAssured.Net. using C# with NUnit and Java with TestNG.
