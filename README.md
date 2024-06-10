@@ -101,7 +101,7 @@ Maintained project with over 3,000 automated tests.
 <a href="https://qvalon.com/">
 <img src="/icons/qvalon.jpg" alt="Qase.io" height="50" />
 </a>
-<a href="https://mdaudit.ru//">
+<a href="https://mdaudit.ru/">
 <img src="/icons/mdaudit.webp" alt="TestIT" height="50" />
 </a>
 <a href="https://utest.com/">
