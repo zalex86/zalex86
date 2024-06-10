@@ -92,7 +92,7 @@ Maintained project with over 3,000 automated tests.
 ](https://www.testrail.com/)
 
 ### 💻 Projects worked on or tested:
-<a href="https://quickex.io//">
+<a href="https://quickex.io/">
 <img src="/icons/quickex.png" alt="TestIT" height="50" />
 </a>
 <a href="https://www.guess.com/us/en/home/">
@@ -111,8 +111,8 @@ Maintained project with over 3,000 automated tests.
 <img src="/icons/test-io-logo.png" alt="TestIT" height="50" />
 </a>
 
-And about 50 other projects, such as online shops, mobile/web games, money transfer services, video editors, social networks
-which I cannot name because of uTest and Test.io NDAs.
+_And about 50 other projects, such as online shops, mobile/web games, money transfer services, video editors, social networks etc.
+which I cannot name because of uTest and Test.io NDAs._
 
 ## 🌟 Test automation projects examples:
 - [Api Maven TestNG Rest Assured](https://github.com/zalex86/api-ch-four)
