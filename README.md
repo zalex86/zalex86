@@ -115,10 +115,10 @@ _And about 50 other projects, such as online shops, mobile/web games, money tran
 which I cannot name because of uTest and Test.io NDAs._
 
 ## 🌟 Test automation projects examples:
-- [Api Maven TestNG Rest Assured](https://github.com/zalex86/api-ch-four) [Features: parallel execution, parametrization for different stands]
+- [Api Maven TestNG Rest Assured](https://github.com/zalex86/api-ch-four) [Features: parallel execution, parametrization for different stands, parametrization of tests with data provider, Allure Report]
+- [UI Maven TestNG Selenide](https://github.com/zalex86/ui-autotests) [Features: file uploading, parallel execution, parametrization for different stands and browsers]
 - [UI Maven TestNG Selenide](https://github.com/zalex86/Mega-ui-automation) [Features: parallel execution, parametrization for different stands and browsers]
 - [UI Android and iOS Appium](https://github.com/zalex86/QAJA_MOBILE) [Features: switching between ios and android]
-- [UI Maven TestNG Selenide](https://github.com/zalex86/ui-autotests) [Features: file uploading, parallel execution, parametrization for different stands and browsers]
 
 ## 📫 Contacts:
 [![Static Badge](https://img.shields.io/badge/-white?logo=linkedin&logoColor=white&label=alex-zaitsev-qa&labelColor=%230A66C2&color=%230A66C2)](https://www.linkedin.com/in/alex-zaitsev-qa/)
