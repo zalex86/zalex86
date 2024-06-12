@@ -76,6 +76,14 @@ Maintained project with over 3,000 automated tests.
 ](https://ubuntu.com/)
 [![Static Badge](https://img.shields.io/badge/Kubernetes-white?logo=kubernetes&logoColor=%23326CE5)
 ](https://kubernetes.io/)
+[![Static Badge](https://img.shields.io/badge/Figma-white?logo=figma)
+](https://www.figma.com/)
+[![Static Badge](https://img.shields.io/badge/Lokalise-green)
+](https://lokalise.com/)
+[![Static Badge](https://img.shields.io/badge/Testflight-blue)
+](https://developer.apple.com/testflight/)
+[![Static Badge](https://img.shields.io/badge/Visual%20Studio%20App%20Center-white?logo=visualstudioappcenter&logoColor=%23CB2E6D)
+](https://appcenter.ms/)
 
 ### 🏷️ Reporting cases and documentation with: 
 [![Static Badge](https://img.shields.io/badge/Jira-white?logo=jira&logoColor=%230052CC)
