@@ -123,6 +123,7 @@ which I cannot name because of uTest and Test.io NDAs._
 - [UI Maven TestNG Selenide](https://github.com/zalex86/ui-autotests) [Features: file uploading, parallel execution, parametrization for different stands and browsers, Allure Report logging with screenshots]
 - [UI Maven TestNG Selenide](https://github.com/zalex86/Mega-ui-automation) [Features: parallel execution, parametrization for different stands and browsers, Allure Report logging with screenshots]
 - [UI Android and iOS Appium](https://github.com/zalex86/QAJA_MOBILE) [Features: switching between ios and android]
+- [SQL queries collection](https://github.com/zalex86/SQL-queries/blob/master/sqlQueries.sql) [Features: join, union, subqueries, having]
 
 ## 📫 Contacts:
 [![Static Badge](https://img.shields.io/badge/-white?logo=linkedin&logoColor=white&label=alex-zaitsev-qa&labelColor=%230A66C2&color=%230A66C2)](https://www.linkedin.com/in/alex-zaitsev-qa/)
