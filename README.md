@@ -1,7 +1,6 @@
 # 👋 Hi there, 
 Welcome to my GitHub!  
 I'm Alex Zaitsev, QA Automation Engineer
-## <span style="color: green;">💣 Open to work!</span>
 ### 🎓 My CV:  [![Static Badge](https://img.shields.io/badge/English%20CV-white?logo=googledocs&logoColor=white&labelColor=%234285F4&color=%234285F4)](https://docs.google.com/document/d/1kLSm4q4Pk0F1hFKIs8zz0M_lytj9wct5/edit?usp=drive_link&ouid=113363592554695937389&rtpof=true&sd=true) [![Static Badge](https://img.shields.io/badge/%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5%20%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC-white?logo=googledocs&logoColor=white&labelColor=%234285F4&color=%234285F4)](https://docs.google.com/document/d/1ZkXcFj3hWYBY9PmR5lKnHVq5m7YDrUNF/edit?usp=drive_link&ouid=113363592554695937389&rtpof=true&sd=true)
 ## 📣 About me:
 13+ years in Quality Control and Quality Assurance.  
